@@ -72,3 +72,9 @@ From Dep_Time and Arrival_time we have to convert time-zones into Morning,
 Afternoon, Evening, and Night slots accordingly.
 
 The logic of these conversions is a little bit tricky.
+
+-----
+
+For More Information Please review the full analysis in the [final notebook](url).
+
+For any additional questions, feel free to email me at patroamit358@gmail.com
