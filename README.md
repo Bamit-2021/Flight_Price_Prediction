@@ -75,6 +75,6 @@ The logic of these conversions is a little bit tricky.
 
 -----
 
-For More Information Please review the full analysis in the [final notebook](url).
+For More Information Please review the full analysis in the [final notebook](https://github.com/Bamit-2021/Flight_Price_Prediction/blob/main/FlightPricePrediction.ipynb).
 
 For any additional questions, feel free to email me at patroamit358@gmail.com
